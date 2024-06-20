@@ -54,13 +54,13 @@ We all can see and recognize those things quickly; that's why they come to mind 
 
 - There are **physical impairments** that we can not recognize well, like poor vision, motor impairment, or challenges that affect our hearing. Just because we can't recognize them easily doesn't mean that those don't impact people's life and behavior.
 - We all know a lot of **mental conditions** that have a considerable impact on our behavior: anxiety disorder, obsessive-compulsive disorder, or dyslexia, to name just a few of far over 200 different conditions that affect our behavior. Once again, we can't detect those conditions that easily but they have a massive effect on peoples' lives.
-- Even if people are not diagnosed, that doesn't mean that they can't be affected. Many of these can also be **temporary afflictions**. If we lack sleep, our eyesight may suffer; if we're dehydrated, we may find it challenging to focus on a specific type of fonts. If we're calming our baby, we maybe realize how hard it is to complete even simple tasks with just one free hand.
+- Even if people are not diagnosed, that doesn't mean that they can't be affected. Many of these can also be **temporary** or even **situational**. If we lack sleep, our eyesight may suffer; if we're dehydrated, we may find it challenging to focus on a specific type of fonts. If we're calming or holding our baby, we maybe realize how hard it is to complete even simple tasks with just one free hand.
 
 All of these examples give us a sense that we often can't really tell who is affected in their daily lives. And this also makes it clear that the target group for accessible design is much larger than we initially anticipated.
 
 ## What can we do?
 
-The first step of using accessible design is to recognize that there is a need to. Period. Once we have established that, progress can be made. But it always begins with recognition.
+The first step of using accessible design is to recognize that there is a need to. Period. Once we have established that, progress can be made. But it always begins with recognition of exclusion.
 
 The second step is to spread the idea. It is not telling people to simply do it or asking people to do it. Nor to claim that it is necessary. It's not about arguing; it's about spreading the idea that there is a need.
 
@@ -78,12 +78,12 @@ Do we want to do more than just realize there is a need? Here are three simple s
 
 This shows us that a first step requires little effort. And perhaps we can already simplify people's lives significantly. We can also make it possible for people to work with our solutions in the first place.
 
-Once we get started, we can include accessibility in more areas of our work life. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in our company by discussing the [Accessibility Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).
+Once we get started, we can include accessibility in more areas of our work life. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in our company by discussing the [Accessibility Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/). If you or your organization have an innovation focus, don't miss the [Accessible Innovation Contents](https://www.microsoft.com/accessibility/accessible-technology-products) and make sure you bookmark the [Inclusive Design Page](https://inclusive.microsoft.design/).
 
 Many people assume that the effort is huge, because we are used to orienting ourselves to familiar patterns. As already explained, it is difficult to look for solutions when you do not even recognize the problem. The first step is not to build ramps and bigger doors, or to ask ourselves how we can include deaf people. In reality, the first steps look like this:
 
-1. Realizing that we can do small and easy baby steps.
-2. Embracing the fact that far more people are affected than we actually might think.
+1. Realizing that we can do small and easy baby steps: [progress over perfection](https://meryl.net/accessibility-progress-not-perfection/)
+2. Embracing the fact that far more people are affected than we actually might think: beyond [permanent disabilities there are temporary and situational scenarios](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf) that can affect us all at any point in life.
 
 ## What are the benefits of accessible design?
 
@@ -105,6 +105,9 @@ There is the possibility to use the iceberg model for that [explanation of the i
 
 The first step of using accessible design is to recognize that there is a need to. Period.
 Once there is realization, progress can occur because exclusion often happens unintentionally. Exclusive design affects far more people than meets the eye, and the effort to change it is tiny.
+The best way to avoid creating innaccessible content is to learn from and work with people with disabilities, following the principle "nothing about us, without us". Accessibility and access are not  "special needs" they are (human) needs. Period. 
+
+If someone needs extra reasoning for creating accessible content, proper content structure, images description and accessibility tagging also help Artificial intellegence interpret the documents faster and provide better results. So, no matter if you are creating accessible documents for others or yourself, you will not regret doing the work.
 
 If we want to give more people a sense of community and belonging, we need to start thinking about accessibility. Then we can get people to contribute their knowledge and skills. That's how we grow as a community and as individuals.
 
@@ -114,6 +117,8 @@ If we want to give more people a sense of community and belonging, we need to st
 - [Bias-free communication](/style-guide/bias-free-communication).
 - The Microsoft [Accessibility Blog](https://www.microsoft.com/accessibility).
 - More details about the iceberg model in [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
+- The Microsoft [Inclusive Design Page](https://inclusive.microsoft.design/)
+- Learn more about [Design for Cognition and Mental Health](https://microsoft.design/articles/inclusive-design-s-next-wave-breaks-for-mental-health)
 
 ---
 
